@@ -1,0 +1,831 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 8.17.12.8525]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     944 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity Projects\RottingHeart\RottingHeartFinal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity Projects\RottingHeart\RottingHeartFinal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\RottingHeart\RottingHeartFinal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity Projects\RottingHeart\RottingHeartFinal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\RottingHeart\RottingHeartFinal_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Unity Projects\RottingHeart\RottingHeartFinal_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.074 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The tree Bush 05 prefab must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 79)
+
+The tree Bush 02 prefab must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 79)
+
+The tree Bush 01 prefab must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 79)
+
+The tree Plant09_c must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 79)
+
+The tree Tomb04_b must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 79)
+
+UnloadTime: 0.565862 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 23530.
+Total: 3.090549 ms (FindLiveObjects: 1.122860 ms CreateObjectMapping: 0.142281 ms MarkObjects: 0.816371 ms  DeleteObjects: 0.487490 ms)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+The animation state walk could not be played because it couldn't be found!
+Please attach an animation clip with the name 'walk' or call this function only for existing animations.
+ 
+(Filename:  Line: 416)
+
+UnloadTime: 36.254356 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 23554.
+Total: 2.989319 ms (FindLiveObjects: 1.036092 ms CreateObjectMapping: 0.066242 ms MarkObjects: 1.333251 ms  DeleteObjects: 0.081170 ms)
+
